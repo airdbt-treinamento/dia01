@@ -8,8 +8,8 @@ Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consult
 
 
 ## Ferramentas
-[![DBeaver](https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png)](https://dbeaver.io/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+[![DBeaver](https://github.com/dbeaver/dbeaver/wiki/images/dbeaver-icon-64x64.png)](https://dbeaver.io/)
+[![Git](https://git-scm.com/images/logo@2x.png)](https://git-scm.com/doc) 
 
 
 ## Cronograma
