@@ -20,10 +20,10 @@ Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consult
   </thead>
   <tbody align="left">
     <tr>
-      <td>Dbeaver</td>
+      <td>DBeaver</td>
       <td align="center">
         <a href="">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/DOWNLOAD-30A3DC?style=for-the-badge">
+           <img align="center" alt="DBeaver" src="https://img.shields.io/badge/DOWNLOAD-30A3DC?style=for-the-badge" href="https://dbeaver.io/">
         </a>
       </td>
     </tr>
