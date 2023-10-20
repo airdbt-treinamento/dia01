@@ -11,6 +11,49 @@ Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consult
 [![DBeaver]](https://dbeaver.io/)
 [![Git]](https://git-scm.com/doc) 
 
+<table>
+  <thead>
+    <tr align="left">
+      <th>Aplicativos</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>Dbeaver</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/DOWNLOAD-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Formas de Contribuir num Projeto Open Source</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Desenvolvendo e Enviando uma Contribuição</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>Dicas e Materiais de Apoio</td>
+      <td align="center">
+        <a href="">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
 
 ## Cronograma
 <table>
