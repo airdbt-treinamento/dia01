@@ -4,7 +4,7 @@
     <span> Treinamento AirDBT - Dia 01</span>
 </h1>
 
-Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consulting]([https://arrudaconsulting.com.br/]).
+Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consulting](https://arrudaconsulting.com.br/).
 
 
 ## Ferramentas
