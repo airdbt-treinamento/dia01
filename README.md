@@ -39,7 +39,7 @@ Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consult
         <a href="https://git-scm.com/downloads">
            <img align="center" alt="GIT" src="https://img.shields.io/badge/DOWNLOAD-30A3DC?style=for-the-badge">
         </a>
-      </td>    
+      </td>
     </tr>
     <tr>
       <td>Putty</td>
@@ -47,7 +47,7 @@ Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consult
         <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">
            <img align="center" alt="Putty" src="https://img.shields.io/badge/DOWNLOAD-30A3DC?style=for-the-badge">
         </a>
-      </td>    
+      </td>
     </tr>
   </tbody>
   <tfoot></tfoot>
