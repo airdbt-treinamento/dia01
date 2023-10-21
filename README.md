@@ -56,7 +56,6 @@ Primeiro dia do treinamento **AirDBT - Modern Data Engineer** da [Arruda Consult
 
 ---
 
-⭐ I N I C I A N D O ...........
 
 ##
 <div align="center">Feito com 💙 por <a href="https://arrudaconsulting.com.br/">Arruda Consulting</a>.</div>
